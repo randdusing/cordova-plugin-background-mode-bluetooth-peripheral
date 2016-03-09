@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-background-mode-bluetooth-peripheral",
+  "version": "1.0.0",
+  "description": "Enable Bluetooth Peripheral Background Mode on iOS",
+  "cordova": {
+    "id": "cordova-plugin-background-mode-bluetooth-peripheral",
+    "platforms": [
+      "ios",
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randdusing/cordova-plugin-background-mode-bluetooth-peripheral"
+  },
+  "keywords": [
+    "bluetooth",
+    "bluetoothle",
+    "bluetooth le",
+    "background",
+    "peripheral",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+  ],
+  "author": "Rand Dusing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randdusing/cordova-plugin-background-mode-bluetooth-peripheral/issues"
+  },
+  "homepage": "https://github.com/randdusing/cordova-plugin-background-mode-bluetooth-peripheral#readme"
+}

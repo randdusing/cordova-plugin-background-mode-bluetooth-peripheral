@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-background-mode-bluetooth-peripheral" version="1.0.0">
+  <name>Bluetooth Peripheral Background Mode</name>
+  <description>Enable Bluetooth Peripheral Background Mode on iOS</description>
+  <author>Rand Dusing</author>
+  <keywords>bluetooth,background,peripheral</keywords>
+  <license>MIT</license>
+  <platform name="ios">
+    <config-file target="*-Info.plist" parent="UIBackgroundModes">
+      <array>
+        <string>bluetooth-peripheral</string>
+      </array>
+    </config-file>
+  </platform>
+</plugin>
