@@ -5,7 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-background-mode-bluetooth-peripheral",
     "platforms": [
-      "ios",
+      "ios"
     ]
   },
   "repository": {
@@ -20,7 +20,7 @@
     "peripheral",
     "cordova",
     "ecosystem:cordova",
-    "cordova-ios",
+    "cordova-ios"
   ],
   "author": "Rand Dusing",
   "license": "MIT",
